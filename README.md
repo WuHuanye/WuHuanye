@@ -1,6 +1,5 @@
 ### 即刻启程。。 👋
 - 📫 ronetver@163.com
-- :guitar:
 - :swimmer:
 - :basketball:
 - :pencil2:
