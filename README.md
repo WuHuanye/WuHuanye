@@ -1,6 +1,5 @@
 ### 即刻启程。。 👋
-- 📫 How to reach me: ronetver@163.com
-:dog: hobby
+- 📫 ronetver@163.com
 - :guitar:
 - :swimmer:
 - :basketball:
