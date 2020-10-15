@@ -1,6 +1,7 @@
 ### Hi There 👋
 - 📫 ronetver@163.com
-> hobby：:swimmer: :basketball: :pencil2:
+- hobby：:swimmer: :basketball: :pencil2:
+> 现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
 
  
 
