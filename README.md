@@ -1,8 +1,7 @@
 ### Hi There 👋
 - 📫 ronetver@163.com
-- :swimmer:
-- :basketball:
-- :pencil2:
+> hobby：:swimmer: :basketball: :pencil2:
+
  
 
 <!--
